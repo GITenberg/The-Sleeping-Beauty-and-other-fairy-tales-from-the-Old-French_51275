@@ -1,0 +1,51 @@
+_repo: The-Sleeping-Beauty-and-other-fairy-tales-from-the-Old-French_51275
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Dulac, Edmund
+    alias: Dulac, Edmond
+    birthdate: 1882
+    deathdate: 1953
+    gutenberg_agent_id: '7657'
+    url: http://www.gutenberg.org/2009/agents/7657
+    wikipedia: http://en.wikipedia.org/wiki/Edmund_Dulac
+creator:
+  authors:
+  - agent_name: Quiller-Couch, Arthur
+    aliases:
+    - Quiller-Couch, Sir Arthur Thomas
+    - Quiller-Couch, A. T. (Arthur Thomas)
+    - Quiller-Couch, Arthur Thomas
+    - Q
+    birthdate: 1863
+    deathdate: 1944
+    gutenberg_agent_id: '3579'
+    url: http://www.gutenberg.org/2009/agents/3579
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Quiller-Couch
+  - agent_name: Perrault, Charles
+    birthdate: 1628
+    deathdate: 1703
+    gutenberg_agent_id: '7137'
+    url: http://www.gutenberg.org/2009/agents/7137
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Charles_Perrault
+    - http://en.wikipedia.org/wiki/Charles_Perrault
+description: ''
+gutenberg_issued: '2016-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51275'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Folklore -- France'
+- !lcsh 'Fairy tales -- France'
+- !lcsh 'Fairy tales'
+- GITenberg
+tableOfContents: The sleeping beauty -- Blue Beard -- Cinderella -- Beauty and the
+  beast.
+title: The Sleeping Beauty and other fairy tales from the Old French
+url: http://www.gutenberg.org/ebooks/51275
